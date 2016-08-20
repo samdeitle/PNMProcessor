@@ -1,0 +1,22 @@
+LRConcat---about to Update input1
+Constant Color---about to execute
+Constant Color---execute success
+LRConcat---Update input1 success
+LRConcat---about to Update input2
+Invert---about to Update input1
+Transpose---about to Update input1
+Crop---about to Update input1
+PNMreader---about to execute
+PNMreader---execute success
+Crop---Update input1 success
+Crop---about to execute
+Crop---done executing
+Transpose---Update input1 success
+Transpose---about to execute
+Transpose---done executing
+Invert---Update input1 success
+Invert---about to execute
+Invert---done executing
+LRConcat---Update input2 success
+LRConcat---about to execute
+LRConcat---done executing
